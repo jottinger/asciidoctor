@@ -2,3 +2,6 @@ pkg/
 /Gemfile.lock
 /.bundle
 /rdoc/
+
+# ignore rubymine files
+.idea
